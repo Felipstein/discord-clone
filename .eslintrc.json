@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "@rocketseat/eslint-config/next", 
+    "next/core-web-vitals"
+  ],
+  "rules": {
+    "camelcase": "off",
+    "@typescript-eslint/ban-ts-comment": "off",
+    "@typescript-eslint/no-empty-function": "off"
+  }
+}
